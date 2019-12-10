@@ -1,3 +1,3 @@
 # TZPU-G2
-Tehnologije za podršku učenju
-Game based learning - adaptivity and personalization
+Tehnologije za podršku učenju,
+Ucenje bazirano na igrama - adaptivnost i pesonalizacija
