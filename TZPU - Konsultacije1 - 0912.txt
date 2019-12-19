@@ -1,0 +1,10 @@
+tzpu konsultacije 1 - 9. decembar
+
+-F1
+	-svojim recima opisati sta je Game Based Learning
+	-adaptivnost personalizacija
+	-dati primere (njihove) + dodatne sa akcentom na personalizaciji
+	-principi i primeri
+-F2
+	-potrebno je osmisliti igru sa principima adaptivnosti i personalizacije
+	-jednostavna implementacija ili opis sa ilustracijama (ai) koja opisuje koncept igre
