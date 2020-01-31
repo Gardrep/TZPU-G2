@@ -2,13 +2,13 @@ tzpu konsultacije 3 - 13. decembar
 
 -F2
 	-koristiti neki od modela (A-GREM/ALIGN)
-	-A-GREM - jednostavniji
-	-jasno definisati gde su primenjeni delovi izabranog modela
-	-igra	- jasno definisati pravila i cilj igre
+		-A-GREM - jednostavniji
+		-jasno definisati gde su primenjeni delovi izabranog modela
+	-igra  - jasno definisati pravila i cilj igre
 			- igra moze sadrzati vise modova
 			- tezina - biranje tezine na pocetku igre
-					 - dinamicko podesavanje tezine
-					 - kombinacija prethodna dva
+				 - dinamicko podesavanje tezine
+				 - kombinacija prethodna dva
 	-modelovanje - ps
-				 - ai
-				 - alati za modeliranje
+		     - ai
+		     - alati za modeliranje
